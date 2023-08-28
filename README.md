@@ -25,7 +25,7 @@
  <img height="32" width="32" src="https://cdn.simpleicons.org/C++/00599C" />&nbsp;
  <img height="32" width="32" src="https://cdn.simpleicons.org/Python/3776AB" />&nbsp;
  <img height="32" width="32" src="https://cdn.simpleicons.org/Unity/FCFCFC" />&nbsp;
- <img height="32" width="32" src="https://cdn.simpleicons.org/UnrealEngine/F1EED9" />&nbsp;
+ <img height="32" width="32" src="https://cdn.simpleicons.org/UnrealEngine/F1EED9" />
  <br>
  <br>
  <img height="32" width="32" src="https://cdn.simpleicons.org/Apache/D22128" />
