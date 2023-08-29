@@ -7,7 +7,7 @@
 
 <div align="center" style="width:100vw;">
  <img style="height: 15vh;" class="img" src="https://github-readme-stats.vercel.app/api?username=aworld1&show_icons=true&theme=transparent&hide_rank=true&text_color=FFFFFF&title_color=1ac2c4&icon_color=1ac2c4" />&nbsp;
- <img style="height: 15vh;" class="img" src="http://github-readme-streak-stats.herokuapp.com?user=aworld1&background=FFFFFF00&theme=dark" />
+ <img style="height: 15vh;" class="img" src="http://github-readme-streak-stats.herokuapp.com?user=aworld1&background=FFFFFF00&ring=1ac2c4&fire=1ac2c4&currStreakLabel=1ac2c4&theme=dark" />
 </div>
 <hr>
 <div align="center" style="width:100vw;">
