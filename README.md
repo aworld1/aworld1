@@ -6,8 +6,8 @@
 <div style="font-family:Inter;">I am a UCSD college graduate looking to make a difference with software through game-changing projects and ideas. With my mathematics background, I love algorithmic challenges and learning new technological frameworks to tackle exciting new problems. My work includes developing mobile applications with non-profits <a href="https://github.com/TritonSE/LAK-Goods-Transport-Application">LAAKTA</a> and <a href="https://github.com/TritonSE/CBL-Mobile-Application">CBL</a>, along with my personal projects like my npm package, <a href="https://www.npmjs.com/package/platesjs">PlatesJS</a> and my Machine Learning <a href="https://recommendsongs.live">song recommender</a>.</div><br><br>
 
 <div align="center" style="width:100vw;">
- <img style="height: min(15vh, 15vw);" class="img" src="https://github-readme-stats.vercel.app/api?username=aworld1&show_icons=true&theme=transparent&hide_rank=true&text_color=FFFFFF&title_color=1ac2c4&icon_color=1ac2c4" />&nbsp;
- <img style="height: min(15vh, 15vw);" class="img" src="http://github-readme-streak-stats.herokuapp.com?user=aworld1&background=FFFFFF00&ring=1ac2c4&fire=1ac2c4&currStreakLabel=1ac2c4&theme=dark" />
+ <img style="height: min(14vh, 14vw);" class="img" src="https://github-readme-stats.vercel.app/api?username=aworld1&show_icons=true&theme=transparent&hide_rank=true&text_color=FFFFFF&title_color=1ac2c4&icon_color=1ac2c4" />&nbsp;
+ <img style="height: min(14vh, 14vw);" class="img" src="http://github-readme-streak-stats.herokuapp.com?user=aworld1&background=FFFFFF00&ring=1ac2c4&fire=1ac2c4&currStreakLabel=1ac2c4&theme=dark" />
 </div>
 <hr>
 <div align="center" style="width:100vw;">
