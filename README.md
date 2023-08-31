@@ -51,3 +51,5 @@
  <a href="https://www.npmjs.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/npm/CB3837" /></a>&nbsp;
  <a href="https://www.nxp.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/NXP/ffb442" /></a>
 </div>
+
+<!-- Assaf Cohen-Arazi -->
