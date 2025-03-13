@@ -156,6 +156,6 @@ I'm particularly interested in the intersection of machine learning and user-fac
 
 <div align="center">
   <a href="https://github.com/aworld1/aworld1/issues/new?template=collaboration-request.md">
-    <img src="https://img.shields.io/badge/Collaborate-1ac2c4?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaborate"/>
+    <img src="https://img.shields.io/badge/Collaborate-%231a1c2c.svg?style=for-the-badge&logo=github&logoColor=1ac2c4" alt="Collaborate"/>
   </a>
 </div>
