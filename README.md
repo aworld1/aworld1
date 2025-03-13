@@ -77,9 +77,6 @@ I'm particularly interested in the intersection of machine learning and user-fac
         <a href="https://planpal.org" target="_blank">
           <img src="https://img.shields.io/badge/Live_Site-1ac2c4?style=for-the-badge&logo=safari&logoColor=white" alt="Live Site"/>
         </a>
-        <a href="https://github.com/yourusername/planpal" target="_blank">
-          <img src="https://img.shields.io/badge/Source_Code-171515?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-        </a>
       </p>
       <p align="center">
         Cloud-integrated school scheduling system helping students plan their academic journeys in advance
@@ -91,8 +88,8 @@ I'm particularly interested in the intersection of machine learning and user-fac
         <a href="https://www.npmjs.com/package/platesjs" target="_blank">
           <img src="https://img.shields.io/npm/v/platesjs?style=for-the-badge&color=1ac2c4" alt="NPM Version"/>
         </a>
-        <a href="https://github.com/yourusername/platesjs" target="_blank">
-          <img src="https://img.shields.io/github/stars/yourusername/platesjs?style=for-the-badge&color=ffd700" alt="GitHub Stars"/>
+        <a href="https://github.com/aworld1/plates" target="_blank">
+          <img src="https://img.shields.io/github/stars/aworld1/plates?style=for-the-badge&color=ffd700" alt="GitHub Stars"/>
         </a>
       </p>
       <p align="center">
@@ -107,7 +104,7 @@ I'm particularly interested in the intersection of machine learning and user-fac
         <a href="https://recommendsongs.live" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-1ac2c4?style=for-the-badge&logo=safari&logoColor=white" alt="Live Demo"/>
         </a>
-        <a href="https://github.com/yourusername/song-recommender" target="_blank">
+        <a href="https://github.com/aworld1/SongRecommender" target="_blank">
           <img src="https://img.shields.io/badge/Source_Code-171515?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
         </a>
       </p>
