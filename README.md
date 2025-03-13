@@ -5,7 +5,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Cornell+Master+of+Engineering;Palantir+Forward+Deployed+Engineer;AI+%26+HCI+Specialist;Algorithmic+Problem+Solver)](https://git.io/typing-svg)
   
   [<img src="https://img.shields.io/badge/Portfolio-1ac2c4?style=for-the-badge&logo=About.me&logoColor=white" />](https://github.com/aworld1)
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com)
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/assafica)
   [<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />](https://www.npmjs.com/package/platesjs)
 
 </div>
