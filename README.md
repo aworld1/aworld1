@@ -99,17 +99,17 @@ I'm particularly interested in the intersection of machine learning and user-fac
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">ML Song Recommender</h3>
+      <h3 align="center">Sponsor Strikethrough</h3>
       <p align="center">
         <a href="https://recommendsongs.live" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-1ac2c4?style=for-the-badge&logo=safari&logoColor=white" alt="Live Demo"/>
+          <img src="https://img.shields.io/badge/Live_Demo-1ac2c4?style=for-the-badge&logo=safari&logoColor=white" alt="Get Extension"/>
         </a>
-        <a href="https://github.com/aworld1/SongRecommender" target="_blank">
+        <a href="https://github.com/aworld1/sponsor-strikethrough" target="_blank">
           <img src="https://img.shields.io/badge/Source_Code-171515?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
         </a>
       </p>
       <p align="center">
-        Machine learning system for personalized music recommendations
+        Strikethrough, highlight, or hide sponsored results on your search pages.
       </p>
     </td>
     <td width="50%">
