@@ -1,54 +1,164 @@
-<div style="display: flex; justify-content: center;">
-  <img style="height: 90px;" class="img" src="https://readme-typing-svg.demolab.com/?font=Monospace&duration=1&pause=2000&color=F7F7F7&repeat=false&width=190&height=80&lines=>+Hey!+I%27m+Assaf%2C" />
-  <img style="height: 90px;" class="img" src="https://readme-typing-svg.demolab.com/?font=Monospace&duration=2000&pause=2000&color=FFFFFF&width=550&height=80&lines=‎ +an+open+source+contributor;‎ +a+Google+tech+stack+enthusiast;‎ +a+math+fanatic;" />
+<div align="center">
+  
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=1ac2c4&height=200&section=header&text=Assaf&fontSize=80&fontColor=ffffff&animation=fadeIn)
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Cornell+Master+of+Engineering;Palantir+Forward+Deployed+Engineer;AI+%26+HCI+Specialist;Algorithmic+Problem+Solver)](https://git.io/typing-svg)
+  
+  [<img src="https://img.shields.io/badge/Portfolio-1ac2c4?style=for-the-badge&logo=About.me&logoColor=white" />](https://github.com/aworld1)
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com)
+  [<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />](https://www.npmjs.com/package/platesjs)
+
 </div>
 
-<div style="font-family:Inter;">I am a Cornell Master of Engineering student looking to make a difference with software through game-changing projects and ideas. With my mathematics background, I love algorithmic challenges and learning new technological frameworks to tackle exciting new problems. My work includes developing mobile applications with non-profits <a href="https://github.com/TritonSE/LAK-Goods-Transport-Application">LAAKTA</a> and <a href="https://github.com/TritonSE/CBL-Mobile-Application">CBL</a>, along with my personal projects like my npm package, <a href="https://www.npmjs.com/package/platesjs">PlatesJS</a> and my Machine Learning <a href="https://recommendsongs.live">song recommender</a>.</div><br><br>
+## 🚀 About Me
 
-<table align="center" style="width:100vw; border: none; border-collapse: collapse;">
+> *Building tomorrow's solutions with today's technologies*
+
+Cornell MEng student with a passion for algorithmic challenges and cutting-edge technologies. I blend mathematical expertise with software engineering to create innovative solutions that make a real-world impact. Specializing in AI and Human-Computer Interaction, I'm about to join Palantir as a Forward Deployed Engineer (Delta). My work spans mobile development, cloud systems, machine learning, and open-source contributions.
+
+<details>
+<summary><b>🔍 Read more about my journey</b></summary>
+<br>
+I leverage my strong mathematics background to solve complex problems through elegant code. My approach combines rigorous algorithmic thinking with modern development frameworks, allowing me to build robust, scalable applications across various domains.
+
+I'm particularly interested in the intersection of machine learning and user-facing applications, creating systems that provide personalized experiences while maintaining performance and accessibility.
+</details>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Core Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+### Expanded Toolkit
+<details>
+<summary><b>Click to expand full tech stack</b></summary>
+<br>
+  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+</details>
+</div>
+
+## 🏆 Featured Projects
+
+<div align="center">
+<table>
   <tr>
-    <td>
-     <img class="img" src="https://github-readme-stats.vercel.app/api?username=aworld1&show_icons=true&theme=transparent&hide_rank=true&text_color=FFFFFF&title_color=1ac2c4&icon_color=1ac2c4&hide_border=true" />&nbsp;
+    <td width="50%">
+      <h3 align="center">PlanPal</h3>
+      <p align="center">
+        <a href="https://planpal.org" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Site-1ac2c4?style=for-the-badge&logo=safari&logoColor=white" alt="Live Site"/>
+        </a>
+        <a href="https://github.com/yourusername/planpal" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-171515?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+        </a>
+      </p>
+      <p align="center">
+        Cloud-integrated school scheduling system helping students plan their academic journeys in advance
+      </p>
     </td>
-    <td>
-     <img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=aworld1&background=FFFFFF00&ring=1ac2c4&fire=1ac2c4&currStreakLabel=1ac2c4&theme=dark&hide_border=true" />
+    <td width="50%">
+      <h3 align="center">PlatesJS</h3>
+      <p align="center">
+        <a href="https://www.npmjs.com/package/platesjs" target="_blank">
+          <img src="https://img.shields.io/npm/v/platesjs?style=for-the-badge&color=1ac2c4" alt="NPM Version"/>
+        </a>
+        <a href="https://github.com/yourusername/platesjs" target="_blank">
+          <img src="https://img.shields.io/github/stars/yourusername/platesjs?style=for-the-badge&color=ffd700" alt="GitHub Stars"/>
+        </a>
+      </p>
+      <p align="center">
+        My NPM package providing intuitive tools for complex data transformations
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">ML Song Recommender</h3>
+      <p align="center">
+        <a href="https://recommendsongs.live" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-1ac2c4?style=for-the-badge&logo=safari&logoColor=white" alt="Live Demo"/>
+        </a>
+        <a href="https://github.com/yourusername/song-recommender" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-171515?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+        </a>
+      </p>
+      <p align="center">
+        Machine learning system for personalized music recommendations
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">LAAKTA Mobile App</h3>
+      <p align="center">
+        <a href="https://github.com/TritonSE/LAK-Goods-Transport-Application" target="_blank">
+          <img src="https://img.shields.io/badge/Open_Source-171515?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+        </a>
+      </p>
+      <p align="center">
+        Non-profit mobile application for goods transportation logistics
+      </p>
     </td>
   </tr>
 </table>
+</div>
 
-<hr>
-<div align="center" style="width:100vw;">
- <a href="https://https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="32" width="32" src="https://cdn.simpleicons.org/JavaScript/F7DF1E" /></a>&nbsp;
- <a href="https://www.typescriptlang.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/TypeScript/3178C6" /></a>&nbsp;
- <a href="https://reactjs.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/React/61DAFB" /></a>&nbsp;
- <a href="https://nodejs.org/en/"><img height="32" width="32" src="https://cdn.simpleicons.org/Node.js/339933" /></a>&nbsp;
- <a href="https://html.spec.whatwg.org/multipage/"><img height="32" width="32" src="https://cdn.simpleicons.org/HTML5/E34F26" /></a>&nbsp;
- <a href="https://www.w3.org/TR/css-2018/"><img height="32" width="32" src="https://cdn.simpleicons.org/CSS3/1572B6" /></a>&nbsp;
- <a href="https://firebase.google.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/Firebase/FFCA28" /></a>&nbsp;
- <a href="https://flutter.dev/"><img height="32" width="32" src="https://cdn.simpleicons.org/Flutter/02569B" /></a>&nbsp;
- <a href="https://dart.dev/"><img height="32" width="32" src="https://cdn.simpleicons.org/Dart/0175C2" /></a>&nbsp;
- <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html"><img height="32" width="32" src="https://cdn.simpleicons.org/Oracle/F80000" /></a>&nbsp;
- <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img height="32" width="32" src="https://cdn.simpleicons.org/CSharp/239120" /></a>&nbsp;
- <a href="http://www.cplusplus.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/C++/00599C" /></a>&nbsp;
- <a href="https://www.python.org"><img height="32" width="32" src="https://cdn.simpleicons.org/Python/3776AB" /></a>&nbsp;
- <a href="https://www.python.org"><img height="32" width="32" src="https://cdn.simpleicons.org/Docker/2496ED" /></a>&nbsp;
- <a href="https://unity.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/Unity/FCFCFC" /></a>&nbsp;
- <a href="https://www.unrealengine.com/en-US/"><img height="32" width="32" src="https://cdn.simpleicons.org/UnrealEngine/F1EED9" /></a>
- <br>
- <br>
- <a href="https://www.apache.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/Apache/D22128" /></a>
- <a href="https://www.jetbrains.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/JetBrains/F0F0F0" /></a>&nbsp;
- <a href="https://www.vim.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/Vim/019733" /></a>&nbsp;
- <a href="https://webpack.js.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/Webpack/8DD6F9" /></a>&nbsp;
- <a href="https://developer.android.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/Android/3DDC84" /></a>&nbsp;
- <a href="https://developer.apple.com/ios/"><img height="32" width="32" src="https://cdn.simpleicons.org/iOS/FCFCFC" /></a>&nbsp;
- <a href="https://www.pythonanywhere.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/PythonAnywhere/1D9FD7" /></a>&nbsp;
- <a href="https://cordova.apache.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/ApacheCordova/E8E8E8" /></a>&nbsp;
- <a href="https://flask.palletsprojects.com/en/2.1.x/"><img height="32" width="32" src="https://cdn.simpleicons.org/Flask/F0F0F0" /></a>&nbsp;
- <a href="https://www.mongodb.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/MongoDB/47A248" /></a>&nbsp;
- <a href="https://yaml.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/YAML/CB171E" /></a>&nbsp;
- <a href="https://www.json.org/json-en.html"><img height="32" width="32" src="https://cdn.simpleicons.org/JSON/FCFCFC" /></a>&nbsp;
- <a href="https://mochajs.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/Mocha/8D6748" /></a>&nbsp;
- <a href="https://www.npmjs.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/npm/CB3837" /></a>&nbsp;
- <a href="https://www.nxp.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/NXP/ffb442" /></a>
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aworld1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aworld1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aworld1&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aworld1&theme=tokyo-night&hide_border=true)
+  
+</div>
+
+## 📌 Current Focus
+
+- 🔭 **Exploring**: Artificial Intelligence & Human-Computer Interaction
+- 🌱 **Learning**: Advanced AI models and intuitive user interfaces
+- 👯 **Seeking**: Collaboration on open-source projects with social impact
+- 💬 **Transitioning**: Preparing to join Palantir as a Forward Deployed Engineer (Delta)
+- 🚀 **Building**: Innovative solutions at the intersection of AI and human needs
+
+---
+
+<div align="center">
+  <a href="https://github.com/aworld1/aworld1/issues/new?template=collaboration-request.md">
+    <img src="https://img.shields.io/badge/Collaborate-1ac2c4?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaborate"/>
+  </a>
 </div>
